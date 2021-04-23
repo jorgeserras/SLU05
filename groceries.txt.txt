@@ -1,3 +1,4 @@
 potatoes
 tomatoes
 butter
+eggs
